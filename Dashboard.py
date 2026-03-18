@@ -41,14 +41,14 @@ st.markdown("""
         color: #1E3A8A;
         text-align: center;
         padding: 1rem;
-        background: linear-gradient(90deg, #E8F0FE 0%, #FFFFFF 100%);
+        background: balck;
         border-radius: 10px;
         margin-bottom: 2rem;
         border-left: 5px solid #F97316;
         animation: fadeIn 1s;
     }
     .kpi-card {
-        background-color: white;
+        background-color: black;
         padding: 1.5rem;
         border-radius: 10px;
         box-shadow: 0 4px 15px rgba(0,0,0,0.1);
