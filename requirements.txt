@@ -1,0 +1,14 @@
+streamlit 
+pandas 
+numpy 
+plotly 
+sqlalchemy 
+psycopg2-binary
+requests 
+reportlab 
+matplotlib 
+seaborn 
+scikit-learn 
+joblib
+openpyxl 
+xlsxwriter
